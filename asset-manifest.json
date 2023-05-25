@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PYTHON1/static/css/main.16fd9488.css",
+    "main.js": "/PYTHON1/static/js/main.bee88fa8.js",
+    "static/js/787.7367c0c1.chunk.js": "/PYTHON1/static/js/787.7367c0c1.chunk.js",
+    "static/media/logo.svg": "/PYTHON1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PYTHON1/index.html",
+    "main.16fd9488.css.map": "/PYTHON1/static/css/main.16fd9488.css.map",
+    "main.bee88fa8.js.map": "/PYTHON1/static/js/main.bee88fa8.js.map",
+    "787.7367c0c1.chunk.js.map": "/PYTHON1/static/js/787.7367c0c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16fd9488.css",
+    "static/js/main.bee88fa8.js"
+  ]
+}
